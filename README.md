@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Anuja 👋
+
+## Interests
+- Collaborative applications
+- Systems programming
+- Data structures and algorithms
+- Problem solving
 
 <!--
 **anuja0802/anuja0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
